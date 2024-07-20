@@ -6,6 +6,7 @@ const roles = {
             "update_user",
             "read_user",
             "create_user",
+            'create_task',
             "delete_task",
             "update_task",
             "read_task",
@@ -13,6 +14,7 @@ const roles = {
     },
     manager: {
         can: [
+            'create_task',
             "create_user",
             "delete_task",
             "update_task",

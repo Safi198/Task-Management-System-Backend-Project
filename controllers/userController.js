@@ -53,10 +53,9 @@ exports.updateUser = async (req, res) => {
 
 exports.deleteUser = async (req, res) => {
     try {
-        const user = await User.findById(req.params.id);
+        const user = await User.findByIdAndDelete(req.params.id);
 
         if (user) {
-            await user.remove();
             logger.info(`User deleted: ${user.email}`);
             res.json({ message: "User removed" });
         } else {

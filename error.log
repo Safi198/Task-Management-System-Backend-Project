@@ -3,3 +3,10 @@
 2024-07-20T11:51:52.243Z [31merror[39m: Error registering user: this.isModified is not a function
 2024-07-20T11:56:14.978Z [31merror[39m: Error registering user: User validation failed: role: `user` is not a valid enum value for path `role`.
 2024-07-20T12:08:08.788Z [31merror[39m: Authentication error: invalid token
+2024-07-20T14:56:19.028Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T14:56:39.695Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T14:57:03.605Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:01:41.127Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:02:07.210Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:04:31.376Z [31merror[39m: Unexpected string in JSON at position 79
+2024-07-20T15:24:51.703Z [31merror[39m: Error deleting task: task.remove is not a function

@@ -81,9 +81,8 @@ exports.updateTask = async (req, res) => {
 
 exports.deleteTask = async (req, res) => {
     try {
-        const task = await Task.findById(req.params.id);
+        const task = await Task.findByIdAndDelete(req.params.id);
         if (task) {
-            await task.remove();
             logger.info(`Task deleted: ${task.title}`);
             res.json({ message: "Task removed" }).status(201);
         } else {

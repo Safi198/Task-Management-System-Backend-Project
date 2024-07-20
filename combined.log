@@ -36,3 +36,78 @@
 2024-07-20T12:07:24.489Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
 2024-07-20T12:08:08.788Z [31merror[39m: Authentication error: invalid token
 2024-07-20T12:08:23.973Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:49:25.918Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:52:37.786Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:54:00.163Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:54:00.185Z [32minfo[39m: User updated: umar@gmail.com
+2024-07-20T14:54:17.599Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:54:17.606Z [32minfo[39m: User updated: umar@gmail.com
+2024-07-20T14:55:39.832Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:55:39.947Z [32minfo[39m: User updated: umar@gmail.com
+2024-07-20T14:56:19.024Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:56:19.028Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T14:56:39.692Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:56:39.695Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T14:57:03.600Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T14:57:03.605Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:01:37.285Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:01:37.330Z [32minfo[39m: MongoDB connected
+2024-07-20T15:01:41.120Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:01:41.127Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:01:47.531Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:01:47.566Z [32minfo[39m: MongoDB connected
+2024-07-20T15:01:52.066Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:01:52.073Z [33mwarn[39m: User not found for deletion: 669ba622773eb1f827604266
+2024-07-20T15:02:07.205Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:02:07.210Z [31merror[39m: Error deleting user: user.remove is not a function
+2024-07-20T15:03:00.494Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:00.523Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:06.516Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:06.562Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:17.053Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:17.096Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:19.893Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:19.929Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:22.742Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:22.776Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:27.282Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:27.316Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:32.427Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:03:32.459Z [32minfo[39m: MongoDB connected
+2024-07-20T15:03:45.201Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:03:45.208Z [32minfo[39m: User deleted: umar@gmail.com
+2024-07-20T15:04:31.376Z [31merror[39m: Unexpected string in JSON at position 79
+2024-07-20T15:04:38.381Z [32minfo[39m: User registered: umar@gmail.com
+2024-07-20T15:07:15.195Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:07:15.196Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:07:37.247Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:07:37.248Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:08:40.814Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
+2024-07-20T15:10:02.366Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:10:02.367Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:11:20.624Z [32minfo[39m: User registered: waqar@gmail.com
+2024-07-20T15:12:34.261Z [32minfo[39m: User authenticated: waqar@gmail.com
+2024-07-20T15:12:34.262Z [33mwarn[39m: Access denied for role: manager
+2024-07-20T15:13:00.905Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
+2024-07-20T15:13:56.875Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:13:56.876Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:14:04.083Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:14:04.084Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:14:51.225Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:14:51.225Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:20:35.943Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:20:35.978Z [32minfo[39m: MongoDB connected
+2024-07-20T15:20:43.684Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:20:43.719Z [32minfo[39m: MongoDB connected
+2024-07-20T15:21:29.632Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:21:29.656Z [32minfo[39m: Task created: New Task
+2024-07-20T15:22:32.733Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:22:32.740Z [32minfo[39m: Task created: New Task2
+2024-07-20T15:23:02.382Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:23:59.173Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:24:35.912Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:24:35.925Z [32minfo[39m: Task updated: Updated Task
+2024-07-20T15:24:51.699Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:24:51.703Z [31merror[39m: Error deleting task: task.remove is not a function
+2024-07-20T15:25:14.929Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:25:14.957Z [32minfo[39m: MongoDB connected
