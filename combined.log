@@ -31,3 +31,8 @@
 2024-07-20T12:06:13.797Z [32minfo[39m: MongoDB connected
 2024-07-20T12:06:16.885Z [32minfo[39m: Server running on port 3000
 2024-07-20T12:06:16.919Z [32minfo[39m: MongoDB connected
+2024-07-20T12:07:22.888Z [32minfo[39m: Server running on port 3000
+2024-07-20T12:07:22.924Z [32minfo[39m: MongoDB connected
+2024-07-20T12:07:24.489Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
+2024-07-20T12:08:08.788Z [31merror[39m: Authentication error: invalid token
+2024-07-20T12:08:23.973Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
