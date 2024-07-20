@@ -111,3 +111,16 @@
 2024-07-20T15:24:51.703Z [31merror[39m: Error deleting task: task.remove is not a function
 2024-07-20T15:25:14.929Z [32minfo[39m: Server running on port 3000
 2024-07-20T15:25:14.957Z [32minfo[39m: MongoDB connected
+2024-07-20T15:25:22.685Z [32minfo[39m: Server running on port 3000
+2024-07-20T15:25:22.721Z [32minfo[39m: MongoDB connected
+2024-07-20T15:25:25.308Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:25:25.319Z [32minfo[39m: Task deleted: Updated Task
+2024-07-20T15:26:18.846Z [32minfo[39m: User authenticated: Shaheer.alam198@gmail.com
+2024-07-20T15:26:18.847Z [33mwarn[39m: Access denied for role: admin
+2024-07-20T15:27:50.222Z [33mwarn[39m: Invalid login attempt: umar@gmail.com
+2024-07-20T15:27:54.708Z [33mwarn[39m: Invalid login attempt: umar@gmail.com
+2024-07-20T15:28:47.030Z [32minfo[39m: User registered: test@gmail.com
+2024-07-20T15:30:00.219Z [32minfo[39m: User authenticated: test@gmail.com
+2024-07-20T15:30:00.238Z [32minfo[39m: Comment added to task: New Task
+2024-07-20T15:30:20.421Z [32minfo[39m: User authenticated: test@gmail.com
+2024-07-20T15:30:20.434Z [32minfo[39m: Comment added to task: New Task
