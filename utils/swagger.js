@@ -9,6 +9,20 @@ const options = {
             version: "1.0.0",
             description: "API documentation for the Task Management System",
         },
+        components: {
+            securitySchemes: {
+                bearerAuth: {
+                    type: "http",
+                    scheme: "bearer",
+                    bearerFormat: "JWT",
+                },
+            },
+        },
+        security: [
+            {
+                bearerAuth: [],
+            },
+        ],
     },
     apis: ["./routes/*.js"],
 };

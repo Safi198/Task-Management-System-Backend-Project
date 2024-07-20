@@ -10,3 +10,5 @@
 2024-07-20T15:02:07.210Z [31merror[39m: Error deleting user: user.remove is not a function
 2024-07-20T15:04:31.376Z [31merror[39m: Unexpected string in JSON at position 79
 2024-07-20T15:24:51.703Z [31merror[39m: Error deleting task: task.remove is not a function
+2024-07-20T19:48:37.703Z [31merror[39m: Error creating task: Task validation failed: assignedTo: Cast to ObjectId failed for value "<user_id>" (type string) at path "assignedTo" because of "BSONError"
+2024-07-20T19:48:49.154Z [31merror[39m: Error creating task: Task validation failed: assignedTo: Cast to ObjectId failed for value "" (type string) at path "assignedTo" because of "BSONError"
