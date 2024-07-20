@@ -1,32 +1,27 @@
 const User = require("../models/User");
 const generateToken = require("../utils/generateToken");
-const sendEmail = require("../utils/sendEmail");
 const logger = require("../config/winston");
 
 exports.register = async (req, res) => {
     const { name, email, password, role } = req.body;
-
+  
     try {
-        const user = new User({ name, email, password, role });
-        await user.save();
-
-        const subject = "Welcome to Task Management System";
-        const text = `Hello ${name},\n\nThank you for registering with our Task Management System!`;
-        await sendEmail(email, subject, text);
-
-        logger.info("User Register: ", user.email);
-        res.json({
-            _id: user._id,
-            name: user.name,
-            email: user.email,
-            role: user.role,
-            token: generateToken(user._id),
-        }).status(201);
+      const user = new User({ name, email, password, role });
+      await user.save();
+  
+      logger.info(`User registered: ${user.email}`);
+      res.status(201).json({
+        _id: user._id,
+        name: user.name,
+        email: user.email,
+        role: user.role,
+        token: generateToken(user._id),
+      });
     } catch (error) {
-        logger.error(`Error registering user: ${error.message}`);
-        res.json({ message: error.message }).status(400);
+      logger.error(`Error registering user: ${error.message}`);
+      res.status(400).json({ message: error.message });
     }
-};
+  };
 
 exports.login = async (req, res) => {
     const { email, password } = req.body;
