@@ -1,2 +1,33 @@
-2024-07-20T11:40:17.524Z [32minfo[39m: Server running on port 3000
-2024-07-20T11:40:17.552Z [32minfo[39m: MongoDB connected
+2024-07-20T11:41:06.290Z [32minfo[39m: Server running on port 3000
+2024-07-20T11:41:06.315Z [32minfo[39m: MongoDB connected
+2024-07-20T11:42:28.238Z [32minfo[39m: Server running on port 3000
+2024-07-20T11:42:28.262Z [32minfo[39m: MongoDB connected
+2024-07-20T11:46:52.942Z [32minfo[39m: Server running on port 3000
+2024-07-20T11:46:52.975Z [32minfo[39m: MongoDB connected
+2024-07-20T11:47:52.601Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:50:26.265Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:51:52.243Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:53:42.458Z [32minfo[39m: Server running on port 3000
+2024-07-20T11:53:42.511Z [32minfo[39m: MongoDB connected
+2024-07-20T11:53:58.676Z [32minfo[39m: Server running on port 3000
+2024-07-20T11:53:58.740Z [32minfo[39m: MongoDB connected
+2024-07-20T11:54:15.898Z [32minfo[39m: User registered: Shaheer.alam198@gmail.com
+2024-07-20T11:56:14.978Z [31merror[39m: Error registering user: User validation failed: role: `user` is not a valid enum value for path `role`.
+2024-07-20T11:56:52.530Z [32minfo[39m: User registered: umar@gmail.com
+2024-07-20T11:57:06.775Z [32minfo[39m: User registered: izhar@gmail.com
+2024-07-20T11:57:22.963Z [32minfo[39m: User registered: waqar@gmail.com
+2024-07-20T11:57:50.400Z [32minfo[39m: User registered: mukhtiar@gmail.com
+2024-07-20T11:58:41.654Z [32minfo[39m: User logged in: mukhtiar@gmail.com
+2024-07-20T11:58:58.841Z [33mwarn[39m: Invalid login attempt: Shaheer.alam18@gmail.com
+2024-07-20T11:59:07.016Z [33mwarn[39m: Invalid login attempt: Shaheer.alam18@gmail.com
+2024-07-20T11:59:11.351Z [33mwarn[39m: Invalid login attempt: Shaheer.alam18@gmail.com
+2024-07-20T11:59:18.835Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
+2024-07-20T12:01:26.183Z [32minfo[39m: Server running on port 3000
+2024-07-20T12:01:26.216Z [32minfo[39m: MongoDB connected
+2024-07-20T12:02:08.627Z [32minfo[39m: Server running on port 3000
+2024-07-20T12:02:08.660Z [32minfo[39m: MongoDB connected
+2024-07-20T12:02:10.313Z [32minfo[39m: User logged in: Shaheer.alam198@gmail.com
+2024-07-20T12:06:13.765Z [32minfo[39m: Server running on port 3000
+2024-07-20T12:06:13.797Z [32minfo[39m: MongoDB connected
+2024-07-20T12:06:16.885Z [32minfo[39m: Server running on port 3000
+2024-07-20T12:06:16.919Z [32minfo[39m: MongoDB connected

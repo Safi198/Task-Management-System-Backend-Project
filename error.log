@@ -1,0 +1,4 @@
+2024-07-20T11:47:52.601Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:50:26.265Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:51:52.243Z [31merror[39m: Error registering user: this.isModified is not a function
+2024-07-20T11:56:14.978Z [31merror[39m: Error registering user: User validation failed: role: `user` is not a valid enum value for path `role`.
